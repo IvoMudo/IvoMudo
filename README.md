@@ -7,7 +7,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - A passionate Self-taught developer
 - Currently learning Web Development by Self
-- Personal website [link soon](https://www.google.com](https://github.com/IvoMudo)
+- Personal website [link soon](https://github.com/IvoMudo)
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://google.com) -->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
